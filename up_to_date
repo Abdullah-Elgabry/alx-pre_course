@@ -1,1 +1,2 @@
-git pull --rebase
+git fetch --all
+git reset --hard origin/main
